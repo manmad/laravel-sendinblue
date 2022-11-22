@@ -21,13 +21,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Webup\\LaravelSendinBlue\\": "src/"
+            "manmad\\LaravelSendinBlue\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Webup\\LaravelSendinBlue\\SendinBlueServiceProvider"
+                "manmad\\LaravelSendinBlue\\SendinBlueServiceProvider"
             ]
         }
     }
